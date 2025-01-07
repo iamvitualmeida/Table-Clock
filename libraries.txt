@@ -1,0 +1,6 @@
+# Automatically added based on includes:
+Adafruit GFX Library
+
+Adafruit SSD1306
+RTClib
+DHT sensor library
