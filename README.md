@@ -54,3 +54,6 @@ Este projeto implementa um relógio de mesa digital utilizando uma placa ESP32. 
    - Adafruit SSD1306
    - RTClib
    - DHT Sensor Library
+## Montagem Eletrônica no Ambiente de Simulação
+
+  ![image](https://github.com/user-attachments/assets/180de630-0bdf-49d9-a98a-dfd9ed0727cf)
